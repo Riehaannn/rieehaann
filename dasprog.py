@@ -1,1 +1,1 @@
-
+print("semarang")
