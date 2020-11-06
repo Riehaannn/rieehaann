@@ -6,7 +6,7 @@ def cls():
   
 while True:
   #menu pilihan
-  print("pilihan program"_)
+  print("pilihan program")
   print("1. Luas Persegi")
   print("2. Luas Persegi Panjang")
   print("3. Luas Segitiga")
